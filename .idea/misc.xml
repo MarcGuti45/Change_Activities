@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marc/OneDrive/Escritorio/TODO/2n DAM/ChangeActivities/app/src/main/res/drawable/arrow_svgrepo_com.xml" value="0.2465" />
+        <entry key="..\:/Users/Marc/OneDrive/Escritorio/TODO/2n DAM/ChangeActivities/app/src/main/res/drawable/splash.xml" value="0.2465" />
+        <entry key="..\:/Users/Marc/OneDrive/Escritorio/TODO/2n DAM/ChangeActivities/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Marc/OneDrive/Escritorio/TODO/2n DAM/ChangeActivities/app/src/main/res/layout/activity_three.xml" value="0.253125" />
+        <entry key="..\:/Users/Marc/OneDrive/Escritorio/TODO/2n DAM/ChangeActivities/app/src/main/res/layout/activity_two.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -14,14 +14,28 @@
         android:theme="@style/Theme.ChangeActivities"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".Splash_Activity"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".ActivityThree"
+            android:exported="true"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name=".ActivityTwo"
+            android:exported="true"
+            tools:ignore="MissingClass" />
     </application>
 
 </manifest>

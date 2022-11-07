@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Change Activities</string>
+    <string name="intents">Intents</string>
+    <string name="name">Name</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="telefon">Telefon</string>
+    <string name="mapa">Mapa</string>
+    <string name="mail">Mail</string>
+    <string name="web">Web</string>
 </resources>
